@@ -1,0 +1,6 @@
+framework module Pods_ContatoIP67 {
+  umbrella header "Pods-ContatoIP67-umbrella.h"
+
+  export *
+  module * { export * }
+}
